@@ -1,0 +1,1 @@
+<h1><?php echo e($message); ?></h1><?php /**PATH /var/www/html/views/error.blade.php ENDPATH**/ ?>
